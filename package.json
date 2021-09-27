@@ -1,0 +1,17 @@
+{
+  "name": "learninggulpandnpm",
+  "version": "1.0.0",
+  "description": "learning how to use gulp",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-imagemin": "^8.0.0",
+    "gulp-sass": "^5.0.0"
+  }
+}
